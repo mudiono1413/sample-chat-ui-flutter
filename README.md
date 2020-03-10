@@ -1,4 +1,4 @@
-# hello_world
+# chat_ui
 
 A new Flutter project.
 
